@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GADyzmsfoWoRv6qHDA5lD6iJb6PuvEEnlqFvTuxfb2UbmgMh6RovHtn7hE4GqAAW6BQL7TB0kt0q0ObcJhA3vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santiago.morla\\source\\repos\\askforfood\\askforfood\\askforfood\\askforfood.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santiago.morla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
